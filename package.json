@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com",
+  "homepage": "https://justiceserv.dev",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Guhyun Chung",
+    "email": "justiceserv@justiceserv.dev",
+    "url": "https://github.com/justiceserv"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
